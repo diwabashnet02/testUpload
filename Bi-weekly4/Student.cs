@@ -11,8 +11,8 @@ namespace Enrollment
         public Student(string name, int age, string email)
         {
             Name = name;
-            Email = email;
             Age = age;
+            Email = email;
             Subjects = new List<Subject>();
         }
 
