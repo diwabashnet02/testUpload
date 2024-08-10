@@ -15,7 +15,7 @@ namespace Enrollment
             {
                 Console.WriteLine("\n\n~~~ Menu ~~~\n");
                 Console.WriteLine("1. Subject list");
-                Console.WriteLine("2. Student list");
+                Console.WriteLine("2. Student list week 6 change");
                 Console.WriteLine("3. Enroll Student");
                 Console.WriteLine("4. Exit");
                 Console.Write("\nSelection menu option:");
