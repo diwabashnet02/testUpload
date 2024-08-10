@@ -1,0 +1,7 @@
+C:\Users\OC204\source\repos\Bi-weekly4\Bi-weekly4\bin\Debug\Bi-weekly4.exe.config
+C:\Users\OC204\source\repos\Bi-weekly4\Bi-weekly4\bin\Debug\Bi-weekly4.exe
+C:\Users\OC204\source\repos\Bi-weekly4\Bi-weekly4\bin\Debug\Bi-weekly4.pdb
+C:\Users\OC204\source\repos\Bi-weekly4\Bi-weekly4\obj\Debug\Bi-weekly4.csproj.AssemblyReference.cache
+C:\Users\OC204\source\repos\Bi-weekly4\Bi-weekly4\obj\Debug\Bi-weekly4.csproj.CoreCompileInputs.cache
+C:\Users\OC204\source\repos\Bi-weekly4\Bi-weekly4\obj\Debug\Bi-weekly4.exe
+C:\Users\OC204\source\repos\Bi-weekly4\Bi-weekly4\obj\Debug\Bi-weekly4.pdb
