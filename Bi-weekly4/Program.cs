@@ -8,7 +8,7 @@ namespace Enrollment
         static void Main(string[] args)
         {
             Data.load();
-
+            Console.WriteLine("Week 6 CHange");
             bool isFinished = false;
 
             while (true)

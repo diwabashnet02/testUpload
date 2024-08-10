@@ -8,9 +8,10 @@ namespace Enrollment
 {
     class Student
     {
-        public Student(string name, int age)
+        public Student(string name, int age, string email)
         {
             Name = name;
+            Email = email;
             Age = age;
             Subjects = new List<Subject>();
         }
